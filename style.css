@@ -1,9 +1,12 @@
+
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+
 
 .container {
   max-width: 900px;
@@ -20,7 +23,7 @@
   display: inline-block;
   outline: none;
   border: none;
-  background: purple;
+  background: #067f83;
   color: white;
   cursor: pointer;
   transition: all 0.2s ease;
@@ -28,18 +31,22 @@
 }
 
 .btn-primary:hover {
-  background: darkviolet;
+  background: #2CB5BA;
 }
 
 .btn-secondary {
   background: none;
-  color: purple;
+  color: #067f83;
 }
 
+.btn-secondary:hover {
+  color: #2CB5BA;
+}
 section {
   padding: 1rem;
   margin-top: 40px;
 }
+
 
 .start-text {
   text-align: center;
@@ -54,16 +61,16 @@ section {
   margin: 10px 0 30px;
 }
 
-.quiz {
-  max-width: 700px;
-  margin: 20px auto;
-}
-
 .info {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 0;
+}
+
+.quiz {
+  max-width: 700px;
+  margin: 20px auto;
 }
 
 .choices {
@@ -104,7 +111,7 @@ section {
 
 #highScores ul li {
   margin: 10px 0;
-  background: rgb(179, 122, 233);
+  background: #aef7fa;
   padding: 10px;
   border-radius: 5px;
   display: inline-block;
