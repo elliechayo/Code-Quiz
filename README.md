@@ -21,7 +21,8 @@ Once user’s initials are submitted, stored high scores are presented to the us
 * [Work completed](#work-completed)
 * [Installation](#installation)
 * [Preview](#preview)
-* [License](#)
+* [Links](#links)
+* [License](#license)
 
 
 
@@ -37,11 +38,11 @@ Once user’s initials are submitted, stored high scores are presented to the us
 * Delineated sections by adding comments.
 
 ***A CSS code file***
-* clean, polish and responsive user interface to the app.
+* Styled the app give it a clean, polish and responsive user interface.
 
 ***A JavaScript code file consists of the following:***
 
-* Defined variables that are needed to code the various functions of the quiz and created the following functions:
+#### Defined variables that are needed to code the various functions of the quiz and created the following functions:
 
 - Hide intro section show quiz and start timer
 - Quiz’s questions content, answer choices and correct answer
@@ -59,14 +60,14 @@ Once user’s initials are submitted, stored high scores are presented to the us
 - Append user’s initial and final score to the high scores array and display. 
 - Reset high scores array. 
 - Hide high score section and show intro section. 
-o	Created event listeners for:
+#### Created event listeners for:
 - Start quiz (button click)
 - Save score (button submit) 
 - Go back (button click)
 - Clear high score ((button click)
 - View high score (button click)
 
-o	Delineated sections by adding comments.
+#### Delineated sections by adding comments.
 
 
 
@@ -102,9 +103,27 @@ The following image shows the web application appearance and functionality once 
 
 
 
-**Links**
+## Links
 <hr>
 
-[URL of the deployed application](https://elliechayo.github.io/password-generator/)
+[URL of the deployed application](https://elliechayo.github.io/Code-Quiz/)
 
-[URL of the GitHub repository](https://github.com/elliechayo/password-generator)
+[URL of the GitHub repository](https://github.com/elliechayo/Code-Quiz)
+
+## License
+<hr>
+
+MIT License
+
+Copyright (c) [2023] [Elinor Chayo]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
