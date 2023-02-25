@@ -38,7 +38,7 @@ Once user’s initials are submitted, stored high scores are presented to the us
 * Delineated sections by adding comments.
 
 ***A CSS code file***
-* Styled the app give it a clean, polish and responsive user interface.
+* Styled the app to give it a clean, polish and responsive user interface.
 
 ***A JavaScript code file consists of the following:***
 
